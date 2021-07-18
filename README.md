@@ -1,1 +1,0 @@
-# facebook.pl
